@@ -7,86 +7,85 @@ Track hospital financial performance Monitor patient admissions, discharges, and
 
 📊 Key KPIs & Metrics
 🔹 Financial Metrics
-Total Billing Amount
-Medication Cost
-Treatment Cost
-Room Charges
-Total Insurance Coverage
-Out-of-Pocket Amount
-Average Billing Amount per Visit
-Cost per Patient
-
+Total Billing Amount,
+Medication Cost,
+Treatment Cost,
+Room Charges,
+Total Insurance Coverage,
+Out-of-Pocket Amount,
+Average Billing Amount per Visit,
+Cost per Patient,
 All currency values are shown in INR (₹).
+
 🔹 Patient Flow Metrics
-Total Admissions
-Total Discharges
-Total Out Patients
-Average Length of Stay (ALOS – Days)
+Total Admissions,
+Total Discharges,
+Total Out Patients,
+Average Length of Stay (ALOS – Days),
 Patients by Length of Stay
-(1 Day, 2–4 Days, 5–7 Days, 8+ Days)
+(1 Day, 2–4 Days, 5–7 Days, 8+ Days).
 
 🔹 Department & Service Analytics
-Total Billing Amount by Department
-Orthopedics
-General Surgery
-Cardiology
-Neurology
-Pediatrics
-Total Billing by Procedure
-X-Ray
-CT Scan
-MRI Scan
-Ultrasound
-Blood Test
-Billing by Diagnosis & Service Type
-Emergency
-Inpatient
-Outpatient
+Total Billing Amount by Department,
+Orthopedics,
+General Surgery,
+Cardiology,
+Neurology,
+Pediatrics,
+Total Billing by Procedure,
+X-Ray,
+CT Scan,
+MRI Scan,
+Ultrasound,
+Blood Test,
+Billing by Diagnosis & Service Type,
+Emergency,
+Inpatient,
+Outpatient.
 (for conditions like Hypertension, Asthma, Appendicitis, Migraine, Fracture)
 
 🔹 Visit Type Analysis
-Emergency vs Non-Emergency Visits
-Department-wise visit distribution
+Emergency vs Non-Emergency Visits,
+Department-wise visit distribution.
 
 🧑‍⚕️ Doctor Insights
 Doctor cards displaying:
-Doctor Name
-Average Patient Rating / Score
+Doctor Name,
+Average Patient Rating / Score,
 Helps in quick performance visibility (note: rating is assumed to be derived from patient feedback data).
 
 📈 Trend Analysis
-Admissions, Total Visits, and Out Patients by Weekday
+Admissions, Total Visits, and Out Patients by Weekday.
 Helps identify:
-Peak days
-Under-utilized days
-Patient inflow patterns
+Peak days,
+Under-utilized days,
+Patient inflow patterns.
 
 🎛 Filters & Interactivity
-State Filter (England, Scotland, Wales, Northern Ireland)
-Time Filters
-Month
-Quarter
-Year
-Weekday
-Week Type
-Clear All Filters button
+State Filter (England, Scotland, Wales, Northern Ireland),
+Time Filters,
+Month,
+Quarter,
+Year,
+Weekday,
+Week Type,
+Clear All Filters button.
 
 Navigation Buttons
-Home
-Next
-
+Home,
+Next.
 All visuals are fully interactive and cross-filter each other.
 
 🛠 Tools & Technologies Used
-Power BI
-Power Query for data cleaning
-DAX for calculated measures and KPIs
-Dataset
-Includes patient, billing, department, diagnosis, and visit data
+Power BI,
+Power Query for data cleaning,
+DAX for calculated measures and KPIs,
+Dataset,
+Includes patient, billing, department, diagnosis, and visit data.
 
 🧠 Key Insights Enabled
-Identify high-revenue departments and procedures
-Monitor cost drivers (treatment vs room vs medication)
-Detect long patient stays impacting bed utilization
-Compare emergency vs scheduled care load
-Understand weekday-wise patient behavior
+Identify high-revenue departments and procedures,
+Monitor cost drivers (treatment vs room vs medication),
+Detect long patient stays impacting bed utilization,
+Compare emergency vs scheduled care load,
+Understand weekday-wise patient behavior.
